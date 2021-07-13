@@ -1,4 +1,3 @@
 # testes_git
-teste1
-teste 2
-teste 3
+
+teste rebase and merge 2 ---> mster
